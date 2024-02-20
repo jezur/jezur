@@ -3,7 +3,7 @@
 I'm a Physics undergraduate student at [Universidad San Francisco de Quito](https://www.usfq.edu.ec/en/undergraduate-programs/physics), in Ecuador.
 
 - :space_invader: Currently I’m working on condensed matter physics research, and also freelance in AI and data science.
-- :earth_africa: I’m looking for PhD/MSc opportunities.
+- :earth_africa: I’m actively looking for PhD/MSc opportunities.
 - 🌱 I’m currently learning Langchain, Llama2, and Docker.
 - 💬 Ask me about scuba diving, the origin of life, and quantum mechanics.
 <!--
