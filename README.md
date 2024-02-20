@@ -2,8 +2,8 @@
 
 I'm a Physics undergraduate student at [Universidad San Francisco de Quito](https://www.usfq.edu.ec/en/undergraduate-programs/physics), in Ecuador.
 
-I do freelance AI and data science in my spare time.
 
+- :space_invader: I do freelance AI and data science in my spare time.
 - 🔭 Working on condensed matter physics research. 
 - 🌱 Looking for PhD/MSc opportunities.
 <!--
