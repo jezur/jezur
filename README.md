@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=jezur)
+![](https://komarev.com/ghpvc/?username=jezur&abbreviated=true)
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31h6fno4tiyvkgz755zsjwxryuyy">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31h6fno4tiyvkgz755zsjwxryuyy&limit=3&hide_title=1" alt="Data Card for Spotify">
