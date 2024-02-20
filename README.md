@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-[![DC Spotify](https://data-card-for-spotify.herokuapp.com/card?user_id=31h6fno4tiyvkgz755zsjwxryuyy)](https://data-card-for-spotify.herokuapp.com/api/card?user_id=31h6fno4tiyvkgz755zsjwxryuyy)
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31h6fno4tiyvkgz755zsjwxryuyy">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31h6fno4tiyvkgz755zsjwxryuyy" alt="Data Card for Spotify">
+</a>
