@@ -4,11 +4,10 @@ I'm a Physics undergraduate student at [Universidad San Francisco de Quito](http
 
 
 - :space_invader: I do freelance AI and data science in my spare time.
-- :diving_mask: Diving is my favorite sport.
-- 🔭 I’m working on condensed matter physics research. 
+- 🔭 Currently I’m working on condensed matter physics research, and also freelance in AI and data science.
 - :earth_africa: I’m looking for PhD/MSc opportunities.
 - 🌱 I’m currently learning Langchain, Llama2, and Docker.
-- 💬 Ask me about the origin of life and quantum mechanics.
+- 💬 Ask me about scuba diving, the origin of life, and quantum mechanics.
 <!--
 **jezur/jezur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
