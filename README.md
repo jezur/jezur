@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31h6fno4tiyvkgz755zsjwxryuyy">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31h6fno4tiyvkgz755zsjwxryuyy" alt="Data Card for Spotify">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31h6fno4tiyvkgz755zsjwxryuyy&limit=3" alt="Data Card for Spotify">
 </a>
