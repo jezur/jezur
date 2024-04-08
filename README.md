@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Langchain, Llama2, and Docker.
 - 💬 Ask me about scuba diving, the origin of life, and quantum mechanics.
 
-You can check my ![publicaitons](https://orcid.org/0000-0002-6366-7596) here!
+You can check my publicaitons ![](https://orcid.org/0000-0002-6366-7596) here!
 <!--
 **jezur/jezur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
