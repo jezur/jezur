@@ -6,6 +6,8 @@
 - :earth_africa: I’m actively looking for PhD/MSc opportunities.
 - 🌱 I’m currently learning Langchain, Llama2, and Docker.
 - 💬 Ask me about scuba diving, the origin of life, and quantum mechanics.
+
+<i class="fa-brands fa-orcid"></i>
 <!--
 **jezur/jezur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
