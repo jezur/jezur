@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm an Erasmus Mundus Masters in Nanotechnology student at [KU Leuven](https://www.emm-nano.org), in Ecuador.**
+**I'm an Erasmus Mundus Masters in Nanotechnology student at [KU Leuven](https://www.emm-nano.org), from Ecuador.**
 
 - :space_invader: Currently I’m working on condensed matter physics research, and also freelance in AI and data science.
 - :earth_africa: I’m actively looking for PhD opportunities.
