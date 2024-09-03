@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-**I'm a Physics undergraduate student at [Universidad San Francisco de Quito](https://www.usfq.edu.ec/en/undergraduate-programs/physics), in Ecuador.**
+**I'm an Erasmus Mundus Masters in Nanotechnology student at [KU Leuven](https://www.emm-nano.org), in Ecuador.**
 
 - :space_invader: Currently I’m working on condensed matter physics research, and also freelance in AI and data science.
-- :earth_africa: I’m actively looking for PhD/MSc opportunities.
+- :earth_africa: I’m actively looking for PhD opportunities.
 - 🌱 I’m currently learning Langchain, Llama2, and Docker.
-- 💬 Ask me about scuba diving, the origin of life, and quantum mechanics.
+- 💬 Ask me about scuba diving and quantum mechanics.
 
 You can check my [publicaitons](https://orcid.org/0000-0002-6366-7596) here!
 <!--
