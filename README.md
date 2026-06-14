@@ -2,9 +2,9 @@
 
 **I'm a student enrolled in the Erasmus Mundus Master's in Nanoscience and Nanotechnology program at [KU Leuven](https://www.emm-nano.org), and I am from Ecuador.**
 
-- :space_invader: Currently I’m working on condensed matter physics research, and also freelance in AI and data science.
-- :earth_africa: I’m actively looking for PhD opportunities.
-- 🌱 I’m currently learning Langchain, Llama2, and Docker.
+- :space_invader: Currently I’m working on nanophotonics and physics research.
+- :earth_africa: I’m actively looking for photonics engineering opportunities.
+- 🌱 I’m currently learning about epitaxy and silicon integrated systems.
 - 💬 Ask me about scuba diving and quantum mechanics.
 
 You can check my [publicaitons](https://orcid.org/0000-0002-6366-7596) here!
